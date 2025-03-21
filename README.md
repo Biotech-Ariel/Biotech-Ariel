@@ -15,7 +15,7 @@
 
 **ENGLISH**
 <p align="center">
-  
+
 **Data Scientist** with extensive experience in data analysis, statistical modeling, and predictive solution development. Use programming languages such as **Python** and **R**, as well as data analysis tools like **TensorFlow** and **scikit-learn**. Able to translate complex data into actionable insights and make informed decisions to drive business strategies. My approach blends strong technical skills with an analytical and creative mindset to tackle challenges in the world of data science. 
 
 
