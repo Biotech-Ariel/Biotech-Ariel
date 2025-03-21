@@ -11,12 +11,6 @@
 <p align="center"> 
 Científico de Datos con amplia experiencia en análisis de datos, modelado estadístico y desarrollo de soluciones predictivas. Uso de lenguajes de programación como Python y R, así como en herramientas de análisis de datos como TensorFlow y scikit-learn. Capaz de transformar datos complejos en información accionable y tomar decisiones fundamentadas para impulsar estrategias empresariales. Mi enfoque combina habilidades técnicas sólidas con una mente analítica y creativa para abordar desafíos en el mundo de la ciencia de datos.
 
-<p align="center">
-  
-**Científico de Datos** con amplia experiencia en análisis de datos, modelado estadístico y desarrollo de soluciones predictivas. Uso de lenguajes de programación como **Python** y **R**, así como en herramientas de análisis de datos como **TensorFlow** y **scikit-learn**. Capaz de transformar datos complejos en información accionable y tomar decisiones fundamentadas para impulsar estrategias empresariales. Mi enfoque combina habilidades técnicas sólidas con una mente analítica y creativa para abordar desafíos en el mundo de la ciencia de datos.
-
-</p>
-
 ---
 
 **ENGLISH**
