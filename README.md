@@ -7,13 +7,13 @@
 ## About Me
 
 **ESPAÑOL**
-
+<p align="center">
 **Científico de Datos** con amplia experiencia en análisis de datos, modelado estadístico y desarrollo de soluciones predictivas. Uso de lenguajes de programación como **Python** y **R**, así como en herramientas de análisis de datos como **TensorFlow** y **scikit-learn**. Capaz de transformar datos complejos en información accionable y tomar decisiones fundamentadas para impulsar estrategias empresariales. Mi enfoque combina habilidades técnicas sólidas con una mente analítica y creativa para abordar desafíos en el mundo de la ciencia de datos.
 
 ---
 
 **ENGLISH**
-
+<p align="center">
 **Data Scientist** with extensive experience in data analysis, statistical modeling, and predictive solution development. Use programming languages such as **Python** and **R**, as well as data analysis tools like **TensorFlow** and **scikit-learn**. Able to translate complex data into actionable insights and make informed decisions to drive business strategies. My approach blends strong technical skills with an analytical and creative mindset to tackle challenges in the world of data science. 
 
 
@@ -27,7 +27,7 @@
 ## Hard Skills:
 
 **Tech Skills**
-
+<p align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=for-the-badge&logo=lightgbm&logoColor=4E9BCD) ![Catboost](https://img.shields.io/badge/Catboost-%23E7EEF0.svg?style=for-the-badge&logo=catboost&logoColor=%2302A8EF) ![XGBoost](https://img.shields.io/badge/XGBoost-%23F46800.svg?style=for-the-badge&logo=xgboost&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
