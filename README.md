@@ -51,6 +51,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/juliocmi"><img src="https://github-readme-stats.vercel.app/api?username=juliocmi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="juliocmi's GitHub stats" /></a>
+<a href="http://www.github.com/Biotech-Ariel"><img src="https://github-readme-stats.vercel.app/api?username=Biotech-Ariel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Biotech-Ariel's GitHub stats" /></a>
 
-<a href="http://www.github.com/juliocmi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliocmi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Biotech-Ariel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Biotech-Ariel&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
