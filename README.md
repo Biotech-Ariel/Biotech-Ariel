@@ -26,7 +26,7 @@
 
 ## Hard Skills:
 
-**Languages & Frameworks**
+**Tech Skills**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
@@ -41,8 +41,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Reach me on:
-
+## Connect with me on
+<div align="center">
 <a href = "https://www.linkedin.com/in/arielmendozaib/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     </a>
@@ -53,9 +53,13 @@
   <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
     </a>
 
+---
     
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Biotech-Ariel"><img src="https://github-readme-stats.vercel.app/api?username=Biotech-Ariel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Biotech-Ariel's GitHub stats" /></a>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="http://www.github.com/Biotech-Ariel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Biotech-Ariel&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![](https://github-readme-stats.vercel.app/api?username=Biotech-Ariel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Biotech-Ariel)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Biotech-Ariel&theme=material-palenight)](https://github.com/Biotech-Ariel)
+</div>
